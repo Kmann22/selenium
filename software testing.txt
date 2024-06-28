@@ -1,0 +1,39 @@
+Introduction
+- software testing is the process of finding defects in a software.
+- the goal is to release quality software to the customer/client.
+
+Manual Testing:
+- Performing the testing w/o any tools
+- Here a tester/person will do the testing.
+
+Problem with Manual Testing:
+- Re-testing: 
+. Conduct testing again and again with different types of data
+. So time and effort!!
+- Regression Testing:
+.  Software testing life cycle process.
+.  Eg. 10 Testcases==2fail 8pass report to the developer
+.  Developer fix the code
+.  So dependent functionalities also needs to be tested.
+
+Therefore Automated Testing
+- reduce time
+- reduce effort
+
+Automation Testing
+- Performing the testing with the help of tools(software) is known as Automation Testing.
+
+Test Case
+- Step by step process that we need to perform to test.
+- Manual testing: Do the testcase, step by step and the expected page is displayed or not.
+- Automation testing: (Application under test) convert the manual test into test script. (automation test)
+
+Who can understand the test script?
+- Automation tools
+
+
+Why do we need Programming?
+Test case(English) -->  Manual Testing--->Test Script(Language: Java/Python)--->Tool
+Therefore we need to know programming
+
+How does Automation tool works?
